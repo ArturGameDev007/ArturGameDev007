@@ -1,8 +1,15 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artur
+=============================================================================================================================
 
+Unity Game Developer
+--------------------
 
+Я начинающий Unity разработчик. Путь в Gamedev начался после окончания техникума, после чего приобрел курс по разрабатыванию игр и начал обучение + к этому самообучался на платформе Unitylern. Веб-разработка во время обучения в техникуме меня не сильно вдохновляло, и в связи с чем поменял направление.
 
-<img height="50" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />  <img height="50" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> <img height="50" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />  <img height="50" wight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+* 🌍  I'm based in Russia
+* 🖥️  See my portfolio at [MyPortfolio](http://github.com/ArturGameDev007)
+* ✉️  You can contact me at [arturarutyunyan395@gmail.com](mailto:arturarutyunyan395@gmail.com)
+* 🧠  I'm learning Gamdev
           
           
           
